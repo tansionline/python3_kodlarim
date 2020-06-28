@@ -1,6 +1,3 @@
-# python3_kodlarim
-python ile ilgili bazi kucuk deneylerim burada bulunmaktadir.
-
 
 <h1> 
 NASIL CALISTIRIRIM?
@@ -10,3 +7,8 @@ NASIL CALISTIRIRIM?
 <a href="https://repl.it/@tansionline/python3kodlarim">Repl.it</a>
 adresimden butun dosyalari calistirabilirsiniz.
 </h3>
+<br>
+<h3>
+Ornek: cd basit-net-hesaplama/ => python3 nethesapla.py 
+</h3>
+  
