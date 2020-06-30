@@ -5,8 +5,8 @@
 <a href="https://repl.it/@tansionline/python3kodlarim">Repl.it</a> adresimden bütün dosyalari calistirabilirsiniz.
 </h3>
 <br>
-&&&&&&&&&&&&&&&&    &&&&&&&&&&&&&&&  &&&&&&&&&&&&&
 <br>
+
 ## Örnek 
 <img src="img/1.png">
 <p>-cd komutu ile ilgili dosyaya erşim sağlayabilirsiniz. </p>
